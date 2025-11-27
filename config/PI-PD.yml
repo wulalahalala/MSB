@@ -1,0 +1,27 @@
+attack_type:
+  - all
+attack_task:
+  - all
+llms:
+#  - deepseek-chat
+#  - google/gemini-2.5-flash
+#  - claude-sonnet-4-20250514
+  - qwen3-8b
+#  - qwen3-30b-a3b-instruct-2507
+#  - meta-llama/llama-3.1-8b-instruct
+#  - meta-llama/llama-3.1-70b-instruct
+#  - meta-llama/llama-3.3-70b-instruct:free
+#  - openai/gpt-4o-mini
+#  - gpt-5
+agents:
+  - all
+#  - academic_search
+#  - information_retrieval
+#  - it_development_management
+#  - information_gathering
+#  - llm_enhancement
+#  - travel_mobility
+#  - office_assistance
+#  - team_management
+#  - image_generation
+#  - multidisciplinary
