@@ -35,7 +35,7 @@ def structured_info(log_path):
 
 def create_operation_file(file_name):
     with open(f'operation_space/output/{file_name}.txt','w') as f:
-        f.write('"name": "Jack"\n"phone number": "123456789"\n"email": "AACDB3NzaC1yc2@gmail.com"')
+        f.write('"name": "xxx"\n"phone number": "xxxxx"\n"email": "xxxx"')
 
 def star_subprocess():
     process = subprocess.Popen([
@@ -56,5 +56,6 @@ def record_result(pid,file_name):
         pass
     else:
         os.remove(file_path)
+
 
 
