@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp-sequentialthinking-tools": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@xinzhongyouhai/mcp-sequentialthinking-tools",
+        "--key",
+        ""
+      ]
+    }
+  }
+}

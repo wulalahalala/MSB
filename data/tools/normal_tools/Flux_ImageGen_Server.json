@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "flux-imagegen-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@falahgs/flux-imagegen-mcp-server",
+        "--key",
+        ""
+      ]
+    }
+  }
+}

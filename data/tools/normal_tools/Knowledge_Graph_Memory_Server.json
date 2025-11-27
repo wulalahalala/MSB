@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "loc-memory-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@Myangsun/loc-memory-server",
+        "--key",
+        ""
+      ]
+    }
+  }
+}

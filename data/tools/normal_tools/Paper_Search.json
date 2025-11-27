@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "paper-search-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@openags/paper-search-mcp",
+        "--key",
+        ""
+      ]
+    }
+  }
+}

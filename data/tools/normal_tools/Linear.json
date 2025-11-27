@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "mcp-linear": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@tacticlaunch/mcp-linear",
+        "--key",
+        "",
+        "--profile",
+        ""
+      ]
+    }
+  }
+}

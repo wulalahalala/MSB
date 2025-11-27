@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "metmuseum-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@mikechao/metmuseum-mcp",
+        "--key",
+        ""
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "mcp-server-nationalparks": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@geobio/mcp-server-nationalparks",
+        "--key",
+        "",
+        "--profile",
+        ""
+      ]
+    }
+  }
+}

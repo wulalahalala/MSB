@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "clickup-mcp-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@windalfin/clickup-mcp-server",
+        "--key",
+        "",
+        "--profile",
+        ""
+      ]
+    }
+  }
+}

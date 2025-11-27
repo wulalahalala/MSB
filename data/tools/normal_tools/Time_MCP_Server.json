@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "time-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@yokingma/time-mcp",
+        "--key",
+        ""
+      ]
+    }
+  }
+}

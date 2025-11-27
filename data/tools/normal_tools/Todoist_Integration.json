@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "todoist-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@miottid/todoist-mcp",
+        "--key",
+        "",
+        "--profile",
+        ""
+      ]
+    }
+  }
+}
